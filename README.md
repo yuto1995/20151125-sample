@@ -1,6 +1,6 @@
 # 20151125-sample
-##sample
-###sample
+## sample
+### sample
 - aaa
-####sample
-#####sample
+#### sample
+##### sample
